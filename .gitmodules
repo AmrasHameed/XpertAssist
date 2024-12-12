@@ -4,3 +4,15 @@
 [submodule "XpertAssist-User-Service"]
 	path = XpertAssist-User-Service
 	url = https://github.com/AmrasHameed/XpertAssist-User-Service.git
+[submodule "XpertAssist-Expert-Service"]
+	path = XpertAssist-Expert-Service
+	url = https://github.com/AmrasHameed/XpertAssist-Expert-Service.git
+[submodule "XpertAssist-Auth-Service"]
+	path = XpertAssist-Auth-Service
+	url = https://github.com/AmrasHameed/XpertAssist-Auth-Service.git
+[submodule "XpertAssist-ServiceManagement"]
+	path = XpertAssist-ServiceManagement
+	url = https://github.com/AmrasHameed/XpertAssist-ServiceManagement.git
+[submodule "XpertAssist-ApiGateway"]
+	path = XpertAssist-ApiGateway
+	url = https://github.com/AmrasHameed/XpertAssist-ApiGateway.git
