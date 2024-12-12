@@ -16,3 +16,6 @@
 [submodule "XpertAssist-ApiGateway"]
 	path = XpertAssist-ApiGateway
 	url = https://github.com/AmrasHameed/XpertAssist-ApiGateway.git
+[submodule "XpertAssist-DevOps"]
+	path = XpertAssist-DevOps
+	url = https://github.com/AmrasHameed/XpertAssist-DevOps.git
