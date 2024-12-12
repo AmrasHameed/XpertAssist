@@ -1,3 +1,6 @@
 [submodule "XpertAssist-client-service"]
 	path = XpertAssist-client-service
 	url = https://github.com/AmrasHameed/XpertAssist-Client-Service.git
+[submodule "XpertAssist-User-Service"]
+	path = XpertAssist-User-Service
+	url = https://github.com/AmrasHameed/XpertAssist-User-Service.git
